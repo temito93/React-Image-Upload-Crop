@@ -39,6 +39,7 @@ const CropPhoto = () => {
 
     if (newPhoto) {
       setPhoto(newPhoto);
+      setZoom(1);
     }
   };
 
