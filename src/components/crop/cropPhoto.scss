@@ -158,7 +158,7 @@
             border: none;
             background-color: unset;
           }
-          .css-187mznn-MuiSlider-root {
+          .slider_root {
             width: 304px;
 
             @media (max-width: 374px) {
@@ -170,17 +170,17 @@
             border-radius: 10px;
             color: #dadce0;
 
-            .css-1gv0vcd-MuiSlider-track {
+            .mui_track {
               background-color: unset;
               border: unset;
             }
 
-            .css-14pt78w-MuiSlider-rail {
+            .mui_rail {
               opacity: 100%;
               width: 100%;
             }
 
-            .css-eg0mwd-MuiSlider-thumb {
+            .mui_thumb {
               color: #ffffff;
               width: 20px;
               height: 20px;

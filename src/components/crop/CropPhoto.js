@@ -125,6 +125,12 @@ const CropPhoto = () => {
                 <img src={minusBtn} alt="img" />
               </button>
               <Slider
+                classes={{
+                  root: "slider_root",
+                  track: "mui_track",
+                  rail: "mui_rail",
+                  thumb: "mui_thumb",
+                }}
                 value={zoom}
                 min={1}
                 max={3}
