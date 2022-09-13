@@ -5,7 +5,7 @@
   align-items: center;
   margin-top: 20px;
 
-  @media (max-width: 374px) {
+  @media (max-width: 390px) {
     width: 356px;
   }
 
@@ -76,7 +76,7 @@
           width: 350px;
           height: 350px;
 
-          @media (max-width: 374px) {
+          @media (max-width: 390px) {
             width: 336px;
           }
 
@@ -150,7 +150,7 @@
           justify-content: space-between;
           margin-top: 30px;
 
-          @media (max-width: 374px) {
+          @media (max-width: 390px) {
             width: 335px;
           }
           button {
@@ -165,7 +165,7 @@
           .slider_root {
             width: 304px;
 
-            @media (max-width: 374px) {
+            @media (max-width: 390px) {
               width: 245px;
             }
             height: 4px;
@@ -200,7 +200,7 @@
           align-items: center;
           justify-content: space-between;
 
-          @media (max-width: 374px) {
+          @media (max-width: 390px) {
             width: 336px;
           }
           .clear__btn {
@@ -216,7 +216,7 @@
             font-weight: 600;
             color: #202945;
 
-            @media (max-width: 374px) {
+            @media (max-width: 390px) {
               width: 162px;
             }
           }
@@ -233,7 +233,7 @@
             font-weight: 600;
             color: #ffffff;
 
-            @media (max-width: 374px) {
+            @media (max-width: 390px) {
               width: 162px;
             }
           }
